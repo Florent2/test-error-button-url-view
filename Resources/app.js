@@ -1,6 +1,4 @@
 var win = Ti.UI.createWindow({
-	barColor:'#111',
-	title:'Authorize Your FreshBooks Account'
 	// backgroundImage:'images/splash_portrait.png'
 });  
 var button = Ti.UI.createButton({
