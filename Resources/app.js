@@ -1,5 +1,5 @@
 var win = Ti.UI.createWindow({
-	// backgroundImage:'images/splash_portrait.png'
+	backgroundColor: "#FFAADD"	
 });  
 var button = Ti.UI.createButton({
   width: 130,
